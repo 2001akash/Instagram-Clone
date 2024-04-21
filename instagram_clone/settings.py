@@ -49,7 +49,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'instagram_clone.wsgi.app'
+WSGI_APPLICATION = 'instagram_clone.wsgi.application'
 
 
 DATABASES = {
